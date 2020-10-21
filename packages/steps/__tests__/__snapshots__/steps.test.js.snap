@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ssyy-steps ssyy-steps-snapshot 1`] = `
+<div
+  class="lg-steps"
+>
+  <div
+    class="lg-step-item lg-step-item-finshed"
+  >
+    <div
+      class="lg-step"
+    >
+      1
+    </div>
+  </div>
+  <div
+    class="lg-step-item lg-step-item-actived"
+  >
+    <div
+      class="lg-step"
+    >
+      2
+    </div>
+  </div>
+  <div
+    class="lg-step-item lg-step-item-wait"
+  >
+    <div
+      class="lg-step"
+    >
+      3
+    </div>
+  </div>
+  <div
+    class="lg-step-item-last lg-step-item-wait"
+  >
+    <div
+      class="lg-step"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;

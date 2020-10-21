@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ssyy-input ssyy-input-snapshot 1`] = `
+<div>
+  <input
+    class="el-input__inner"
+    type="text"
+  />
+</div>
+`;
